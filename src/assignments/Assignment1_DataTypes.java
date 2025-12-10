@@ -29,7 +29,7 @@ public class Assignment1_DataTypes {
 		System.out.println("Coordinates of a location (latitude, longitude): "+latitudeLoc+","+longitudeLoc);
 		
 		//Person's marital status: true or false
-		String isMarried = "true or false";
+		String isMarried = "false";
 		System.out.println("Person's marital status:"+isMarried);
 		
 		//Person's occupation: "Software Engineer" 
